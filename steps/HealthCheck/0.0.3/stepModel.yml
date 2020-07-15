@@ -9,4 +9,4 @@ configuration:
   stuff:
     type: String[]
     validate:
-      isRegex:  ["^[a-z]+$", "i"]
+      isRegex:  "^[a-z]+$"
