@@ -6,10 +6,8 @@ Function Check-Health() {
 
   if ( $StatusCode -eq "200" ) {
     Write-Information "Health check succeeded" -InformationAction Continue
-    return 0
   } else {
     Write-Information "Health check failed" -InformationAction Continue
-    return 1
   }
 }
 
