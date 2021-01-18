@@ -11,4 +11,4 @@ Function Check-Health() {
   }
 }
 
-Check-Health
+execute_command Check-Health
