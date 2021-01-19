@@ -1,6 +1,7 @@
 description: "Health check step"
 os:
  - Linux
+ - Ubuntu
 configuration:
   healthCheckUrl:
     type: Url
