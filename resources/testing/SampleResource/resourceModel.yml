@@ -1,3 +1,5 @@
+os:
+  - Windows
 configuration:
   foo:
     type: String
