@@ -1,4 +1,4 @@
-os:
+operatingSystems:
   - Windows
 configuration:
   foo:
