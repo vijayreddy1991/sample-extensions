@@ -1,5 +1,5 @@
 operatingSystems:
-  - name: Windows
+  - Windows
 configuration:
   foo:
     type: String
