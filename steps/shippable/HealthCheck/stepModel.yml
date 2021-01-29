@@ -1,6 +1,6 @@
 description: "Health check step"
 operatingSystems:
- - name: Windows
+ - Windows
 configuration:
   healthCheckUrl:
     type: Url
