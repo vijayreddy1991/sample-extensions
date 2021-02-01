@@ -1,5 +1,5 @@
 description: "Health check step"
-operatingSystems:
+platforms:
  - name: Windows
 configuration:
   healthCheckUrl:
