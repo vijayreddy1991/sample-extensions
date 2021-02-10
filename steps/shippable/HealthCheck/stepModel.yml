@@ -1,6 +1,6 @@
 description: "Health check step"
-os:
- - Linux
+platforms:
+ - os: Linux
 configuration:
   healthCheckUrl:
     type: Url
