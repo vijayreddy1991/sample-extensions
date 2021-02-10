@@ -1,6 +1,5 @@
 description: "Health check step"
 platforms:
-  - os: Linux
   - os: Windows
 configuration:
   healthCheckUrl:
