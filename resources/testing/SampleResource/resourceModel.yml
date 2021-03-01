@@ -1,5 +1,5 @@
-operatingSystems:
-  - name: Linux
+platform:
+  - os: Linux
 configuration:
   foo:
     type: String
