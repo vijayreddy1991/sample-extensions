@@ -10,6 +10,8 @@ checkHealth() {
   else
     echo "Health check succeeded"
   fi
+  
+  echo "Source Artifactory API Key ---> $res_res1_sourceArtifactory_apikey"
 
   $success
 }
