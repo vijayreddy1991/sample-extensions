@@ -1,4 +1,4 @@
-platform:
+platforms:
   - os: Linux
 configuration:
   foo:
