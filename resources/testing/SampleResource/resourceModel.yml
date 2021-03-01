@@ -4,4 +4,4 @@ configuration:
   foo:
     type: String
   sourceArtifactory:
-    type: Artifactory
+    type: Integration
