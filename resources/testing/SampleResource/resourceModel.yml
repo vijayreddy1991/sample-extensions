@@ -5,3 +5,5 @@ configuration:
     type: String
   sourceArtifactory:
     type: Integration
+  gitProvider:
+    type: Integration
