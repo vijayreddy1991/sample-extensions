@@ -12,7 +12,7 @@ checkHealth() {
   fi
   
   echo "Source Artifactory API Key ---> $res_res1_sourceArtifactory_apikey"
-  echo "Git provider url ---> $res_res1_gitProvider_gitProvider_url"
+  echo "Git provider url ---> $res_res1_gitProvider_url"
 
   $success
 }
