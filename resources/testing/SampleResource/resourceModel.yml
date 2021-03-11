@@ -2,8 +2,4 @@ platforms:
   - os: Linux
 configuration:
   foo:
-    type: String
-  sourceArtifactory:
-    type: Integration
-  gitProvider:
-    type: Integration
+    type: Boolean
