@@ -23,3 +23,6 @@ userDefinedDataType:
       example:      
         type: String
         required: true
+      example2:
+        type: String
+        required: true
