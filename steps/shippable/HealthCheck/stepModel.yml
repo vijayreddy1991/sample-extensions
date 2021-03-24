@@ -12,3 +12,15 @@ configuration:
     type: Boolean
   stuff:
     type: String[]
+  etc:
+    type: foo
+    configuration:
+      - example: bar
+    
+    
+ 
+userDefinedDataType:           
+  - type: foo          
+    configuration:
+      - example:      
+        type: String
