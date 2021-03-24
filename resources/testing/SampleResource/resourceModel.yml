@@ -11,4 +11,4 @@ configuration:
     type: Integration
     required: true
     validate:
-      allowedIntegrationTypes: [GitHub, Gitlab]
+      allowedIntegrationTypes: [GitHub, GitLab]
