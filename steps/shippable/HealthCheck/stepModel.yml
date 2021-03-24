@@ -19,5 +19,5 @@ configuration:
 userDefinedDataType:           
   - type: foo          
     configuration:
-      - example:      
+      example:      
         type: String
