@@ -10,3 +10,5 @@ configuration:
   gitProvider:
     type: Integration
     required: true
+    validate:
+      allowedIntegrationTypes: [GitHub, Gitlab]
