@@ -14,9 +14,6 @@ configuration:
     type: String[]
   etc:
     type: foo
-    configuration:
-      - example: bar
-    
     
  
 userDefinedDataType:           
