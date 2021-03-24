@@ -10,7 +10,6 @@ configuration:
     required: true
   notifyOnFailure:
     type: Boolean
-    required: true
   stuff:
     type: String[]
     required: false
