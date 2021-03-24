@@ -23,4 +23,4 @@ userDefinedDataType:
   - type: foo          
     configuration:
       - example:      
-        type: String
+         type: String
