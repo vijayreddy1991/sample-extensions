@@ -22,7 +22,6 @@ userDefinedDataType:
     configuration:
       example:      
         type: String
-        required: true
       example2:
         type: String
         required: true
