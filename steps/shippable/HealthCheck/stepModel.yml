@@ -22,3 +22,4 @@ userDefinedDataType:
     configuration:
       example:      
         type: String
+        required: true
