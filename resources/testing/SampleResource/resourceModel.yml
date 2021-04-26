@@ -1,4 +1,4 @@
-icon: el-ygjj
+icon: el-icon-scissors
 configuration:
   foo:
     type: String
