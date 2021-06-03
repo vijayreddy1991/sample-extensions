@@ -1,4 +1,4 @@
-icon: el-icon-scissors
+icon: pipelines-vm-deploy
 configuration:
   foo:
     type: String
